@@ -44,6 +44,29 @@ praktikum 2
 ![alt text](image2.png)
 ![alt text](image2-1.png)
 
+Praktikum 3
+![alt text](image-3.png)
+![alt text](image-3-1.png)
+![alt text](image3-2.png)
+![alt text](image3-3.png)
+![alt text](image3-4.png)
+
+"To do 1 : Improve the implementation of Practicum 2 using Dynamic Routes"
+![alt text](image3-5.png)
+![alt text](image3-6.png)
+![alt text](image3-7.png)
+Dengan menggunakan konsep Nested Routes dan Dynamic Routes, buatlah halaman dengan routing /products/[productId]/reviews/[reviewId]
+![alt text](image3-8.png)
+![alt text](image3-9.png)
+
+Praktikum 4
+![alt text](image4.png)
+![alt text](image4-1.png)
+Todo: Tambahkan link yang sebelumnya anda telah kerjakan!
+![alt text](image4-2.png)
+![alt text](image4-3.png)
+
+
 Pertanyaan: Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
 
 Jawaban:
