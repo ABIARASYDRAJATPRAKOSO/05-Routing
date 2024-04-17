@@ -39,3 +39,12 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 Praktikum 1 
 ![alt text](image.png)
 ![alt text](image1.png)
+
+praktikum 2
+![alt text](image2.png)
+![alt text](image2-1.png)
+
+Pertanyaan: Apa kekurangan yang mungkin terjadi jika menggunakan pendekatan pada Praktikum 2 untuk menangani routing?
+
+Jawaban:
+Kekurangannya adalah kita perlu menambahkan routingnya satu per satu. Butuh beberapa waktu untuk melakukan peroutean.
