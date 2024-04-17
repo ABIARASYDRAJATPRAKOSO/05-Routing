@@ -6,6 +6,6 @@ type Props = {
 
 export default function ProductDetails({ params }: Props) {
   return (
-        <h1>Review of person {params.productId}</h1>
+        <h1>Details About Product {params.productId}</h1>
   )
 }
